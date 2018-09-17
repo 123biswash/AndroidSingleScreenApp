@@ -15,7 +15,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gfycat.com/UnhealthyRepulsiveCurassow' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/E27IBuiz16TtYl4ze9/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## License
