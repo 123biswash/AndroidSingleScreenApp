@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <TextView
+        android:id="@+id/text_coffee"
+        android:text="Bing Coffee"
+        android:textSize="36sp"
+        android:paddingLeft="20dp"
+        android:textColor="@android:color/background_dark"
+        android:fontFamily="sans-serif-light"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"/>
+    <ImageView
+        android:id="@+id/image_coffee"
+        android:src="@drawable/coffee"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:layout_above="@id/contact_coffee"/>
+    <TextView
+        android:id="@+id/contact_coffee"
+        android:text="Location: 712 Girard ST NW, \nWashington, D.C., 20001\n\n\nOpening Hours: 10am-5pm "
+        android:paddingLeft="20dp"
+        android:textSize="20sp"
+        android:layout_alignParentBottom="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
